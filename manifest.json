@@ -13,7 +13,7 @@
 
 	"permissions": [],
 
-	"browser_actions": {
+	"browser_action": {
 		"default_title": "Тест расширения для браузера",
 		"default_icon": "48x48.png",
 		"default_popup": "popup.html"
